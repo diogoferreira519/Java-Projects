@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\diogo\eclipse-workspace\curso_javaprogramacao\.metadata\.plugins\org.eclipse.jdt.core
